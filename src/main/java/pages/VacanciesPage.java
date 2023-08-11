@@ -11,7 +11,6 @@ import org.testng.Assert;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
 
 public class VacanciesPage extends BaseSeleniumPage {
 
